@@ -89,6 +89,18 @@ const Podcast = () => {
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, magni
                     fugiat, odit incidunt necessitatibus aut nesciunt exercitationem
                     aliquam id voluptatibus quisquam maiores officia sit amet accusantium
+                    aliquid quo obcaecati quasi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, magni
+                    fugiat, odit incidunt necessitatibus aut nesciunt exercitationem
+                    aliquam id voluptatibus quisquam maiores officia sit amet accusantium
+                    aliquid quo obcaecati quasi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, magni
+                    fugiat, odit incidunt necessitatibus aut nesciunt exercitationem
+                    aliquam id voluptatibus quisquam maiores officia sit amet accusantium
+                    aliquid quo obcaecati quasi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, magni
+                    fugiat, odit incidunt necessitatibus aut nesciunt exercitationem
+                    aliquam id voluptatibus quisquam maiores officia sit amet accusantium
+                    aliquid quo obcaecati quasi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, magni
+                    fugiat, odit incidunt necessitatibus aut nesciunt exercitationem
+                    aliquam id voluptatibus quisquam maiores officia sit amet accusantium
                     aliquid quo obcaecati quasi.
                 </p>
                 <hr className="border-gray-300" />
