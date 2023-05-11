@@ -11,15 +11,15 @@ const Podcast = () => {
                         src="https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/SlackLogo_CompanyNews_SecondaryAubergine_Hero.jpg?d=500x500&amp;f=fill"
                         className="flex-shrink-0 object-cover rounded-full btn- w-10 h-10"/>
                     <div className="mt-0 mr-0 mb-0 ml-4 flex-1 min-w-0">
-                        <p className="text-lg font-bold text-gray-800 truncate">Engineering
-                            Manager</p>
+                        <p className="text-lg font-bold text-gray-800 truncate">Prospects of engineering
+                            Managment</p>
                         <p className="text-gray-600 text-md">Slack</p>
                     </div>
                 </div>
                 <div
                     className="mt-4 mr-0 mb-0 ml-0 pt-0 pr-0 pb-0 pl-14 flex items-center sm:space-x-6 sm:pl-0 sm:mt-0">
                     <a href="" className="bg-gray-800 pt-2 pr-6 pb-2 pl-6 text-lg font-medium text-gray-100 transition-all
-                    duration-200 hover:bg-gray-700 rounded-lg">Apply</a>
+                    duration-200 hover:bg-gray-700 rounded-lg">Play</a>
                 </div>
             </div>
         </div>
@@ -36,10 +36,10 @@ const ExamplePodcasts = () => {
                     <div
                         className="pt-0 pr-4 pb-0 pl-4 mt-0 mr-auto mb-0 ml-auto sm:flex sm:items-center sm:justify-between">
                         <div>
-                            <p className="text-xl font-bold text-gray-900">Open Positions</p>
-                            <p className="text-sm mt-1 mr-0 mb-0 ml-0 font-semi-bold text-gray-500">Lorem ipsum dolor
-                                sit amet, consectetur
-                                adipis</p>
+                            <p className="text-xl font-bold text-gray-900">Popular</p>
+                            <p className="text-sm mt-1 mr-0 mb-0 ml-0 font-semi-bold text-gray-500">
+                                Listen best of the best podcasts
+                            </p>
                         </div>
                         <div className="mt-4 mr-0 mb-0 ml-0 sm:mt-0">
                             <p className="sr-only">Search Position</p>

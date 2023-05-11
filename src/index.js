@@ -3,23 +3,19 @@ import ReactDOM from 'react-dom/client';
 import styles from './index.css';
 import App from './App';
 import {
-    createBrowserRouter,
-    RouterProvider,
+    BrowserRouter
 } from "react-router-dom";
 
 
-const router = createBrowserRouter([
-    {
-        path: "/",
-        element: <App/>,
-    },
-]);
+
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <RouterProvider router={router}/>
+    <BrowserRouter>
+        <App></App>
+    </BrowserRouter>
   </React.StrictMode>
 );
 
