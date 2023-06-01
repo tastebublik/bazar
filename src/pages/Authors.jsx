@@ -1,12 +1,23 @@
 import React from 'react';
 import {Navbar} from "../components/Navbar";
-import Podcast from "../components/Podcast";
+import Author from "../components/Author";
+import ShowMusicLine from "../logic/ShowMusicLine";
 const Authors = () => {
     return (
         <div>
-                <section className="flex flex-row flex-wrap mx-auto">
-                    <Podcast/>
+                <section className="flex flex-row flex-wrap mx-auto mb-10">
+                    <Author/>
+                    <Author/>
+                    <Author/>
+                    <Author/>
+                    <Author/>
+                    <Author/>
+                    <Author/>
+                    <Author/>
+                    <Author/>
+                    <Author/>
                 </section>
+            <ShowMusicLine/>
         </div>
     );
 };
